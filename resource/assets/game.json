@@ -1,0 +1,24 @@
+{
+	"file":"game.png",
+	"frames":{
+		"bcar":{"x":335,"y":151,"w":52,"h":96,"offX":0,"offY":0,"sourceW":52,"sourceH":96},
+		"bestscore":{"x":125,"y":99,"w":104,"h":36,"offX":0,"offY":0,"sourceW":104,"sourceH":36},
+		"bpoint1":{"x":83,"y":233,"w":52,"h":52,"offX":0,"offY":0,"sourceW":52,"sourceH":52},
+		"bpoint2":{"x":389,"y":175,"w":58,"h":58,"offX":0,"offY":0,"sourceW":58,"sourceH":58},
+		"home":{"x":1,"y":223,"w":80,"h":80,"offX":0,"offY":0,"sourceW":80,"sourceH":80},
+		"home2":{"x":389,"y":235,"w":56,"h":56,"offX":0,"offY":0,"sourceW":56,"sourceH":56},
+		"more":{"x":391,"y":129,"w":118,"h":44,"offX":0,"offY":0,"sourceW":118,"sourceH":44},
+		"over":{"x":125,"y":151,"w":154,"h":80,"offX":0,"offY":0,"sourceW":154,"sourceH":80},
+		"pause":{"x":473,"y":1,"w":20,"h":34,"offX":0,"offY":0,"sourceW":20,"sourceH":34},
+		"rcar":{"x":281,"y":151,"w":52,"h":96,"offX":0,"offY":0,"sourceW":52,"sourceH":96},
+		"restart":{"x":1,"y":99,"w":122,"h":122,"offX":0,"offY":0,"sourceW":122,"sourceH":122},
+		"rpoint1":{"x":137,"y":233,"w":52,"h":52,"offX":0,"offY":0,"sourceW":52,"sourceH":52},
+		"rpoint2":{"x":449,"y":175,"w":58,"h":58,"offX":0,"offY":0,"sourceW":58,"sourceH":58},
+		"score":{"x":191,"y":233,"w":68,"h":36,"offX":0,"offY":0,"sourceW":68,"sourceH":36},
+		"share":{"x":391,"y":83,"w":118,"h":44,"offX":0,"offY":0,"sourceW":118,"sourceH":44},
+		"start":{"x":391,"y":1,"w":80,"h":80,"offX":0,"offY":0,"sourceW":80,"sourceH":80},
+		"start2":{"x":447,"y":235,"w":56,"h":56,"offX":0,"offY":0,"sourceW":56,"sourceH":56},
+		"start3":{"x":241,"y":1,"w":148,"h":148,"offX":0,"offY":0,"sourceW":148,"sourceH":148},
+		"title":{"x":1,"y":1,"w":238,"h":96,"offX":0,"offY":0,"sourceW":238,"sourceH":96}
+	}
+}

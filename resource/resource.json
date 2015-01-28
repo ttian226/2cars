@@ -1,0 +1,19 @@
+{
+"resources":
+	[
+		{"name":"bgImage","type":"image","url":"assets/bg.png"},
+		{"name":"shadeImage","type":"image","url":"assets/shade.png"},
+		{"name":"ydImage","type":"image","url":"assets/yindao.png"},
+		{"name":"game","type":"sheet","url":"assets/game.json"},
+		{"name":"carMc","type":"json","url":"assets/car.json"},
+		{"name":"carMcImg","type":"image","url":"assets/car.png"}
+	],
+
+"groups":
+	[
+        {
+        	"name":"preload",
+        	"keys":"bgImage,shadeImage,ydImage,game,carMc,carMcImg"
+        }
+	]
+}
